@@ -35,6 +35,7 @@ try {
 }
 };
 
+// Login User
 const loginUser = async (req, res) => {
     try {
         
@@ -72,6 +73,7 @@ const loginUser = async (req, res) => {
     }
 }
 
+//logout user
 const logoutuser = async (req, res) => {
     try {
         const { email } = req.body;
