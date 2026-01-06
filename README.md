@@ -1,1 +1,1 @@
-this repo is for basic backend practice.
+This repository is for basic backend practice, implementing simple authentication with minimal validation and testing basic CRUD APIs using Postman.
